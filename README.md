@@ -48,6 +48,12 @@ This tool is optimized for a workflow common in LMS environments like Brightspac
 ## Screenshot
 
 <img width="1863" height="885" alt="image" src="https://github.com/user-attachments/assets/a4294225-583f-48d0-b983-1bc1c7cd9f06" />
+<img width="1602" height="566" alt="image" src="https://github.com/user-attachments/assets/92092441-3b65-4a93-b847-2d91907efb8b" />
+<img width="1447" height="394" alt="image" src="https://github.com/user-attachments/assets/2f24648c-7bc5-4e46-8633-74699922e5ed" />
+<img width="1506" height="582" alt="image" src="https://github.com/user-attachments/assets/547980ed-43c1-4773-9787-3a1e3fbf3ea3" />
+<img width="1440" height="868" alt="image" src="https://github.com/user-attachments/assets/83101f57-447b-4a32-8b1c-1b1b270520fc" />
+
+
 
 
 
