@@ -47,7 +47,10 @@ This tool is optimized for a workflow common in LMS environments like Brightspac
 
 ## Screenshot
 
-<!-- Add a screenshot of the app's interface here to give users a visual preview! -->
+<img width="1863" height="885" alt="image" src="https://github.com/user-attachments/assets/a4294225-583f-48d0-b983-1bc1c7cd9f06" />
+
+
+
 
 
 ## Running Locally (For Developers)
@@ -58,6 +61,47 @@ If you want to run this application on your local machine for development purpos
 *   Python 3.8 or higher installed.
 
 **2. Clone the Repository:**
-   ```bash
+bash
+
    git clone https://github.com/your-username/scorm-inspector-app.git
    cd scorm-inspector-app
+
+**3. Create and Activate a Virtual Environment (Recommended):**
+
+    Windows:
+
+Bash
+
+```python -m venv venv```
+```venv\Scripts\activate```
+
+macOS / Linux:
+
+Bash
+
+    ```python3 -m venv venv```
+    ```source venv/bin/activate```
+
+4. Install Dependencies:
+
+Bash
+
+```pip install -r requirements.txt```
+
+5. Run the App:
+
+Bash
+
+```streamlit run scorm_app_v12.py```
+
+The application will open in a new tab in your default web browser.
+
+.
+├── scorm_app_v12.py    # The main Streamlit application script.
+├── requirements.txt      # Python dependencies for the project.
+└── README.md           # This file.
+
+
+License
+
+This project is open source and available under the MIT License.
