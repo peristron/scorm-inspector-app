@@ -96,9 +96,11 @@ Bash
 
 The application will open in a new tab in your default web browser.
 
-.
+
 ├── scorm_app_v12.py    # The main Streamlit application script.
+
 ├── requirements.txt      # Python dependencies for the project.
+
 └── README.md           # This file.
 
 
